@@ -33,3 +33,23 @@ CARA MENJALANKAN WEBSITE :
 1.) Download semua file di Github yang tersedia<br>
 2.) Setelah mendownload, buka file [index.html]<br>
 3.) Website siap pakai.<br>
+<br>
+SUMBER GAMBAR/ASET YANG DIGUNAKAN :
+<br>
+img1: https://www.pngitem.com/middle/iTobRoo_gabriella-wilde-png-free-download-burberry-britain-ladies/<br>
+category-1 : https://indonesian.alibaba.com/product-detail/Quality-Starry-Ladies-Lazy-Magnet-Strap-1601187167531.html?spm=a2700.7724857.0.0.325a4217HSIX5N<br>
+category-2 :<br>
+category-3 : https://indonesian.alibaba.com/product-detail/LIGE-9868-low-MOQ-black-male-1600607367836.html<br>
+exclusive : https://www.cleanpng.com/png-christian-dior-se-diamond-jewellery-fashion-watch-3376453/<br>
+product-1 : https://www.gerrybrownejewellers.ie/watches-c21/coeur-de-lion-silver-ladies-watch-p11007<br>
+product-2 : https://www.tdlarioja.com/?path=page/ggitem&ggpid=2374603<br>
+product-3 : https://www.amazon.com.be/-/en/Ladies-Waterproof-Leather-Quartz-Analog/dp/B08M3XLNDK<br>
+product-4 : https://id.aliexpress.com/item/1005002254704521.html?gatewayAdapt=glo2idn<br>
+product-5 : https://indonesian.alibaba.com/product-detail/2024--New--CURREN--9085--Watch--Women-1601046189442.html<br>
+product-6 : https://indonesian.alibaba.com/product-detail/2024--New--CURREN--9085--Watch--Women-1601046189442.html<br>
+product-7 : https://www.watchia.no/pulsar-lady-watch-ph8213x1.html<br>
+product-8 : https://id.pinterest.com/pin/647040671441873503/<br>
+product-9 : https://www.digikala.com/product/dkp-2832270/%D8%B3%D8%A7%D8%B9%D8%AA-%D9%85%DA%86%DB%8C-%D8%B9%D9%82%D8%B1%D8%A8%D9%87-%D8%A7%DB%8C-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%85%D8%AF%D9%84-dr-2064-me/<br>
+product-10 : <br>
+product-11 : https://watchard.com/appella-diamonds-l50009-1171dq-watch<br>
+product-12 : <br>

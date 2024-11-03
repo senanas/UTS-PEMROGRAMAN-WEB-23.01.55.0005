@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Order Form - Tokei</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <img src="img/logo.png" width="125px">
+                </div>
+                <nav>
+                    <ul id="MenuItems">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="form.html">Order</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="">Account</a></li>
+                    </ul>
+                </nav>
+                <img src="img/cart.png" width="30px" height="30px">
+            </div>
+        </div>
+ 
+    <!----- Form Details ------->
+        <div class="container-form">
+            <h2 class="title">Order Form</h2>
+            <label for="name">Full Name :</label><br>
+                <input type="text" id="name" name="name" required><br><br>
+
+            <label for="alamat">Adress :</label><br>
+                <textarea id="adress" name="adress" required></textarea><br><br>
+
+            <label for="product">Name Product :</label><br>
+            <select>
+                <option>-Select Product-</option>
+                <option>Silver White Wristwatch</option>
+                <option>Black Gold Wristwatch</option>
+                <option>Rose Black Wristwatch</option>
+                <option>White Grey Wristwatch</option>
+                <option>Silver Diamond Wristwatch</option>
+                <option>Rose Premium Wristwatch</option>
+                <option>Silver Quartz Wristwatch</option>
+                <option>Pinky Rose Wristwatch</option>
+                <option>Black Dior Wristwatch</option>
+                <option>White of Gold Wristwatch</option>
+                <option>Rogue Vertilia Wristwatch</option>
+                <option>Gold Shine Wristwatch</option>
+            </select><br><br>
+
+            <label for="color">Color Product :</label><br>
+            <select>
+                <option>-Select Color-</option>
+                <option>Black</option>
+                <option>White</option>
+                <option>Others</option>
+            </select>
+
+            <p>Color Product (Others) :</p>
+                <input type="text" id="color" name="color"><br><br>
+                
+            <label for="quantity">Quantity :</label><br>
+                <input type="number" value="1"><br><br>
+
+            <label for="email">Email :</label><br>
+                <input type="email" id="email" name="email" required><br><br>
+
+            <label for="telepon">Phone Number :</label><br>
+            <input type="text" id="telepon" name="telepon" required><br><br>
+
+            <label for="payement">Payment Method :</label><br>
+            <select>
+                <option>-Select Method-</option>
+                <option>Credit Card</option>
+                <option>Bank Transfer</option>
+                <option>Digital Wallets</option>
+                <option>Cash on Delivery (COD)</option>
+                <option>Buy Now, Pay Later</option>
+            </select><br><br>
+            <a href="order-done.html" class="btn">Process Order</a>
+        </div>
+
+    <!-------- Footer --------->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download Our App</h3>
+                    <p>Download App for Android and ios mobile Phone.</p>
+                    <div class="app-logo">
+                        <img src="img/playstore.png">
+                        <img src="img/appstore.png">
+                    </div>
+                </div>
+                <div class="footer-col-2">
+                    <img src="img/logo-white.png">
+                    <p>Our Purpose Is To Sustainably Make the Pleasure and
+                    Benefits of Watch Accessible to the Many.</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Link</h3>
+                    <ul>
+                        <li>Coupons</li>
+                        <li>Blog Post</li>
+                        <li>Return Policy</li>
+                        <li>Join Affiliate</li>
+                     </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Twitter</li>
+                        <li>Instagram</li>
+                        <li>Youtube</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">copyright 2024 - Tokei Shop</p>
+        </div>
+    </div>
+
+</body>
+</html>

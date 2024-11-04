@@ -6,9 +6,9 @@
 <br>
 # Sistem Informasi<br>
 <br>
-URL WEBSITE<br>
+URL WEBSITE
 <br>
-file:///F:/TUGAS%20SMT%203/UTS/index.html
+file:///F:/TUGAS%20SMT%203/UTS/index.html<br>
 <br>
 PENJELASAN FITUR
 <br>

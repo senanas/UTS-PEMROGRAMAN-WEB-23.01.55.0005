@@ -30,8 +30,8 @@ CARA MENJALANKAN WEBSITE :
 1.) Download semua file di Github yang tersedia<br>
 2.) Setelah mendownload, buka file [index.html] pada folder tersebut<br>
 3.) Pada Navibar terdapat products, order, about. Jika ingin melihat beberapa product bisa ke navibar "product"<br>
-4.) Pada bagian "Product" terdapat Product Details.<br>
-5.) Pada Bagian navibar "Order" bagian untuk memesan order. Setelah orderan dimasukan, akan mendapat notifikasi orderan telah masuk<br>
+4.) Pada bagian "Product" terdapat Product Details. Pada product details terdapat beberapa info pada barang dan ada juga tombol untuk "Order".<br>
+5.) Pada Bagian navibar "Order" bagian untuk memesan order. Setelah orderan dimasukan, akan mendapat notifikasi orderan telah masuk.<br>
 6.) Pada Bagina navibar "About" berisikan tentang toko halaman yang dimiliki.
 <br>
 SUMBER GAMBAR/ASET YANG DIGUNAKAN :

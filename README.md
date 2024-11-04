@@ -32,7 +32,7 @@ CARA MENJALANKAN WEBSITE :
 3.) Pada Navibar terdapat products, order, about. Jika ingin melihat beberapa product bisa ke navibar "product"<br>
 4.) Pada bagian "Product" terdapat Product Details. Pada product details terdapat beberapa info pada barang dan ada juga tombol untuk "Order".<br>
 5.) Pada Bagian navibar "Order" bagian untuk memesan order. Setelah orderan dimasukan, akan mendapat notifikasi orderan telah masuk.<br>
-6.) Pada Bagina navibar "About" berisikan tentang toko halaman yang dimiliki.
+6.) Pada Bagian navibar "About" berisikan tentang toko halaman yang dimiliki.
 <br>
 SUMBER GAMBAR/ASET YANG DIGUNAKAN :
 <br>

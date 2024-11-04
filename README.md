@@ -8,7 +8,7 @@
 <br>
 URL WEBSITE
 <br>
-file:///F:/TUGAS%20SMT%203/UTS/index.html<br>
+http://localhost/UTS/index.html
 <br>
 PENJELASAN FITUR
 <br>
@@ -28,7 +28,7 @@ Sediakan berbagai metode pembayaran seperti kartu kredit, transfer bank, e-walle
 CARA MENJALANKAN WEBSITE :
 <br>
 1.) Download semua file di Github yang tersedia<br>
-2.) Setelah mendownload, buka file [index.html] pada folder tersebut<br>
+2.) Setelah mendownload, pindahkan folder ke dalam xampp/htdocs. Setelah itu buka di google dengan link (http://localhost/UTS/index.html)<br>
 3.) Pada Navibar terdapat products, order, about. Jika ingin melihat beberapa product bisa ke navibar "product"<br>
 4.) Pada bagian "Product" terdapat Product Details. Pada product details terdapat beberapa info pada barang dan ada juga tombol untuk "Order".<br>
 5.) Pada Bagian navibar "Order" bagian untuk memesan order. Setelah orderan dimasukan, akan mendapat notifikasi orderan telah masuk.<br>

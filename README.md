@@ -25,7 +25,7 @@ Ulasan dari pelanggan sebelumnya memberikan gambaran realistis kepada calon pemb
 <br>
 Sediakan berbagai metode pembayaran seperti kartu kredit, transfer bank, e-wallet, hingga cicilan untuk pembelian yang lebih besar.
 <br>
-CARA MENJALANKAN WEBSITE :<br>
+CARA MENJALANKAN WEBSITE :
 <br>
 1.) Download semua file di Github yang tersedia<br>
 2.) Setelah mendownload, pindahkan folder ke dalam xampp/htdocs. Setelah itu buka di google dengan link (http://localhost/UTS/index.html)<br>
